@@ -19,6 +19,9 @@ The source code here is not intended to be self-hosted; it is provided here for 
 (see [package.json](package.json))
 
 # Disclaimer
+This repository was only just created, effectively open-sourcing the code. The actual project has existed since September 2024. Just for those curious why this repo looks so empty...
+
+# Disclaimer 2
 This project is not affiliated with Discord or Google in any way. I am not responsible for your electricity bill, water bill, or RAM prices going up. [Blame Razer and their AI girlfriend tubes](https://www.youtube.com/watch?v=_QDthx_WjwE). pigeon is a tiny drop in the several continents of the ocean of AI driving prices up.
 > [!IMPORTANT]
 > pigeon is not a forced AI tool; you must literally opt into it, and it cannot be invasive at all.
