@@ -1,6 +1,7 @@
 const about = require('./about');
 const chat = require('./chat');
 const clearhistory = require('./clearhistory');
+const eval = require('./eval');
 const history = require('./history');
 const ignore = require('./ignore');
 const invite = require('./invite');
@@ -18,6 +19,7 @@ const commands = [
     about,
     chat,
     clearhistory,
+    eval,
     history,
     ignore,
     invite,
